@@ -1,5 +1,5 @@
 # Darrel
-Darrel is a simple web-scraper that returns phone numbers.
+Darrel is a simple web-scraper that returns phone numbers and emails.
 
 After the prerequisites, run Darrel.py, you will be prompted to input a URL. You will then be prompted to input the filename that you wish to save the phone numbers under.
 Darrel will then scan the site for phone numbers.
